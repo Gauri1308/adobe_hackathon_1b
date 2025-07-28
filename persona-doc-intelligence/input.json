@@ -1,0 +1,8 @@
+{
+    "documents": [
+        "sample_docs/document1.pdf",
+        "sample_docs/document2.pdf"
+    ],
+    "persona": "PhD Researcher in Machine Learning",
+    "job_to_be_done": "Prepare literature review focusing on neural network architectures and performance benchmarks"
+}
